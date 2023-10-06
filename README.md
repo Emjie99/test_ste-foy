@@ -4,3 +4,4 @@
 Alexandre Boileau  
 Gabriel Morissette   
 Samuel Renaud  
+Cécilia N'Dri
