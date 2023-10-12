@@ -4,6 +4,6 @@
 Alexandre Boileau  
 Gabriel Morissette   
 Samuel Renaud  
-Cécilia N'Dri
+Cécilia N'Dri  
 Felix Dallaire  
 Juan Jiménez
