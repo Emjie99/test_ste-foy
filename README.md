@@ -6,5 +6,5 @@ Gabriel Morissette
 Samuel Renaud  
 Cécilia N'Dri  
 Felix Dallaire  
-Juan Jiménez
+Juan Jiménez  
 Francis Dubois
