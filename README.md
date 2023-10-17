@@ -8,4 +8,5 @@ Cécilia N'Dri
 Felix Dallaire  
 Juan Jiménez  
 Francis Dubois
-Francis Deslauriers
+Yani Meziani  
+Francis Deslauriers  
