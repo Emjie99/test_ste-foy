@@ -7,6 +7,6 @@ Samuel Renaud
 Cécilia N'Dri  
 Felix Dallaire  
 Juan Jiménez  
-Francis Dubois
+Francis Dubois  
 Yani Meziani  
 Francis Deslauriers  
