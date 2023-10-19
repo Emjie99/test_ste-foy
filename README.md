@@ -10,6 +10,5 @@ Juan Jiménez
 Francis Dubois  
 Yani Meziani  
 Francis Deslauriers  
-Jean-Philippe Cyr
-
-Luc Boivin
+Jean-Philippe Cyr  
+Luc Boivin  
