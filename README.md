@@ -12,5 +12,5 @@ Yani Meziani
 Francis Deslauriers  
 Jean-Philippe Cyr  
 Luc Boivin  
-Pierro Chicoine
+Pierro Chicoine  
 Maxime Collin
