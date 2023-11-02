@@ -14,3 +14,4 @@ Jean-Philippe Cyr
 Luc Boivin  
 Pierro Chicoine  
 Maxime Collin
+Mélissa Bédard
