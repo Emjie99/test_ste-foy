@@ -13,5 +13,5 @@ Francis Deslauriers
 Jean-Philippe Cyr  
 Luc Boivin  
 Pierro Chicoine  
-Maxime Collin
+Maxime Collin  
 Mélissa Bédard
